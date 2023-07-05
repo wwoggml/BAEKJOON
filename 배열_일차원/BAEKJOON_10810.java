@@ -1,3 +1,5 @@
+package 배열_일차원;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

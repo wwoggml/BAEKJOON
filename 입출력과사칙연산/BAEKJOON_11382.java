@@ -1,3 +1,5 @@
+package 입출력과사칙연산;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
